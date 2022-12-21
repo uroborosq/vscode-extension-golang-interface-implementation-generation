@@ -1,3 +1,4 @@
+# Лабораторная работа по DevTools
 # golang-interface-implementation-generation README
 
 Done by: Tikhomirov Dmitriy Alekseevich
